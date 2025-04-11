@@ -11,7 +11,7 @@
 
 ### Screenshot
 
-![screenshot](https://i.gyazo.com/df526d71ca98d0d282a17dd68880c80e.png)
+![screenshot](https://i.gyazo.com/df526d71ca98d0d282a17dd68880c80e.png))
 
 ### Features
 - Inventory UI
@@ -35,15 +35,6 @@ This order also applies in the startup order.
 - [esx_skin](https://github.com/ESX-Org/esx_skin)
 - [esx_accessories](https://github.com/esx-framework/esx_accessories)
 - Optional: [jsfour-idcard](https://github.com/jonassvensson4/jsfour-idcard)
-
-### Download & Installation
-
-### Using Git
-
-```
-cd resources
-git clone https://github.com/Korioz/krz_personalmenu
-```
 
 ## Installation
 - Configure your `server.cfg` to look like this
