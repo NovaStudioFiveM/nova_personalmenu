@@ -9,10 +9,6 @@
 ### Community Support
 - **[Discord Invite Link](https://discord.gg/2eQWaZfrQ6)** (Don't ask for help to me i don't do any sort of support, thank's)
 
-### Screenshot
-
-![screenshot](https://i.gyazo.com/df526d71ca98d0d282a17dd68880c80e.png))
-
 ### Features
 - Inventory UI
 - Wallet UI
